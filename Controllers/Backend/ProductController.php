@@ -7,7 +7,7 @@ class ProductController extends BaseController{
 
     protected $categoryModel;
 
-    protected $validateErrors;
+    protected $validateError;
 
     protected $productImageModel;
 
